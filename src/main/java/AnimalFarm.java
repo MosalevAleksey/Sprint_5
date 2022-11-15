@@ -24,7 +24,7 @@ public class AnimalFarm {
                             catname.add(split[1]);
                             break;
                         case "DOG":
-                            dogname.add(split[1]);
+                            dognameqq.add(split[1]);
                             break;
                         case "HORSE":
                             horsename.add(split[1]);
